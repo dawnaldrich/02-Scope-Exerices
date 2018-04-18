@@ -1,1 +1,1 @@
-# 02-Scope-Exerices
+# 02-Scope-Exercises
